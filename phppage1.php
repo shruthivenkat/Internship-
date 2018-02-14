@@ -13,7 +13,7 @@ and open the template in the editor.
 $servername = "localhost";
 $username = "shruthi";
 $password = "shruthiv";
-$dbname = "mediatek";
+$dbname = "mt";
 
 // Create connection
 $conn = mysqli_connect($servername, $username, $password, $dbname);
