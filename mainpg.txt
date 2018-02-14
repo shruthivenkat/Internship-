@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>CMS - MediaTek</title>
+  <title>CMS</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
@@ -64,14 +64,14 @@ line-height: .5;
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>                        
       </button>
-<img src="C:\Users\shruthi\Desktop\mediateklogo.png" class="img-responsive margin" style="display:inline" alt="Bird" width="200" height="150">
+<img src="C:\Users\shruthi\Desktop\logo.png" class="img-responsive margin" style="display:inline" alt="Bird" width="200" height="150">
       
     </div>
    </div>
 </nav>
 
 <div class="container">
-  <h2>Contractor Management System</h2><br>
+  <h2>C*** Management System</h2><br>
   
   <form class="form-inline" action="/action_page.php">
     <div class="form-group">
@@ -92,7 +92,7 @@ line-height: .5;
 
 
 <footer class="footer container-fluid bg-4 text-center">
-  <p>MediaTek<span class="glyphicon glyphicon-copyright-mark">2018</span></p> 
+  <p>MT<span class="glyphicon glyphicon-copyright-mark">2018</span></p> 
 </footer>
 
 </body>
